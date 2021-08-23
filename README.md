@@ -7,6 +7,8 @@ To provide an easy user interface to input the object image and retrieve the tex
 First of all you should download the OpenCV library (version 3.x).The
 dataset we are using in this project is “opencv_python_knn_character”
 dataset.
+
+
 Step1:-Create a folder on desktop.Copy Gendata and TrainandTest files
 from the previous folder.Then copy the training and testing images into
 the folder.
