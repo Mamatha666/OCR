@@ -10,6 +10,8 @@ dataset.
 Step1:-Create a folder on desktop.Copy Gendata and TrainandTest files
 from the previous folder.Then copy the training and testing images into
 the folder.
+
+
 Step2:-Open IDLE which is a python shell.Open Gendata file and run
 it.A new image will be displayed on the screen in which we have to enter
 all the characters and say what the character is.Enter all the characters
